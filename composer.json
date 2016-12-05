@@ -1,7 +1,7 @@
 {
-    "name": "spatie/http-status-check",
+    "name": "hissezhaut/http-status-check",
     "description": "CLI tool to crawl a website and check HTTP status code",
-    "homepage": "https://github.com/spatie/http-status-checker",
+    "homepage": "https://github.com/hissezhaut/http-status-checker",
     "license": "MIT",
     "keywords": [
         "spatie",
@@ -18,6 +18,10 @@
         {
             "name": "Sebastian De Deyne",
             "email": "sebastiandedeyne@gmail.com"
+        },
+        {
+            "name": "Chris LG",
+            "email": "chris@hissez-haut.com"
         }
     ],
     "require": {
